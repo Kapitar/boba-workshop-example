@@ -1,18 +1,16 @@
-.block {
-    width: 100%;
-    border: darkcyan 1px solid;
-    padding: 10px;
-    margin-bottom: 10px;
-  }
-  
-  h1, p {
-    text-align: center;
-  }
-  
-  img {
-    max-width: 200px;
-  }
-  
-  li {
-    color: red;
-  }
+body {
+  background: lightgray;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
+
+li {
+  color: red;
+}
